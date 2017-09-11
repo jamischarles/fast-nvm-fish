@@ -1,6 +1,5 @@
 ## Difference in the fork
 - removed beta file (confused fisherman)
-- used brew nvm path
 
 ## What is nvm?
 
