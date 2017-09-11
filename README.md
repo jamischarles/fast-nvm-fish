@@ -1,3 +1,7 @@
+## Difference in the fork
+- removed beta file (confused fisherman)
+- used brew nvm path
+
 ## What is nvm?
 
 [nvm] is a tool for managing multiple versions of node and npm.
